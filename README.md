@@ -1,4 +1,4 @@
-### Hi this is repository by quenandres 👋
+### Hi 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/quenandres?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/quenandres)
 
@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=quenandres&&show_icons=true&theme=vue-dark"/>
+  </a>
+</p>
