@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a href="https://github.com/quenandres"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=quenandres&&show_icons=true&theme=vue-dark"/>
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quenandres&langs_count=8)](https://github.com/quenandres)
