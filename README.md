@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/quenandres?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/quenandres)
 
-<img src="https://i.pinimg.com/originals/a8/97/8d/a8978d3f98fd6af1ce0a6b598430867b.gif">
+<img src="https://thumbs.gfycat.com/GracefulDemandingIndochinahogdeer-size_restricted.gif">
 
 ### Web Developer
 
