@@ -1,9 +1,14 @@
 ### Hi this is repository by quenandres 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/quenandres?logo=twitter&style=for-the-badge)](https://twitter.com/quenandres)
+[![Twitter Follow](https://img.shields.io/twitter/follow/quenandres?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/quenandres)
 
-**quenandres/quenandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/a8/97/8d/a8978d3f98fd6af1ce0a6b598430867b.gif">
 
+### Web Developer
+
+### Coding
+
+---
 Here are some ideas to get you started:
 
 - 🔭 I'm currently working on ...
