@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/quenandres?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/quenandres)
 
-<img style="width:100px;heigth:100px;" src="https://thumbs.gfycat.com/GracefulDemandingIndochinahogdeer-size_restricted.gif">
+<img style="width:300px;heigth:300px;" src="https://thumbs.gfycat.com/GracefulDemandingIndochinahogdeer-size_restricted.gif">
 
 ### Fullstack Developer
 
@@ -36,6 +36,4 @@
   <a href="https://github.com/quenandres"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=quenandres&&show_icons=true&theme=vue-dark"/>
   </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quenandres&langs_count=8)](https://github.com/quenandres)
 </p>
